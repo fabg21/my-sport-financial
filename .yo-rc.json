@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.fabg21.mysport.financial",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "microservice",
+    "baseName": "mySportFinancial",
+    "packageName": "com.fabg21.mysport.financial",
+    "packageFolder": "com/fabg21/mysport/financial",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGYzYTc2ODkyZGUzMjBhMDFkNDIwZjJmMTcwYzUyMzAyNTU1YmVlMzRkODIzYTA0NWI4NGNkYTQyZmM0M2Y1NmRiNjRjYzBlZmM0MWM4OWExN2NkODg5YmU5MmE3NTM1MzcyYTYzMDkwYmJiMTFjYzFiY2I0YTRhMDBjYmNiZDg=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "fr",
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}

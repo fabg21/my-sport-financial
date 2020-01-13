@@ -1,0 +1,28 @@
+{
+    "fluentMethods": true,
+    "clientRootFolder": "mySportFinancial",
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "label",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "amount",
+            "fieldType": "Float"
+        },
+        {
+            "fieldName": "status",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20191219080349",
+    "dto": "mapstruct",
+    "searchEngine": false,
+    "service": "serviceImpl",
+    "entityTableName": "spending",
+    "databaseType": "sql",
+    "jpaMetamodelFiltering": false,
+    "pagination": "no",
+    "microserviceName": "mySportFinancial"
+}
